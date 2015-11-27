@@ -1,0 +1,126 @@
+*{
+padding:0px;	
+}
+
+#home_header {
+	color:#331516;
+	text-decoration:none;
+	}
+
+body {
+	margin:0px;
+	background:url(../img/background.jpg) no-repeat fixed;
+	font-family:inconsolata;
+	font-size:16px;
+	font-weight:bold;
+	color:#3F3434;
+	}
+
+header,footer,section,aside{
+	display:block;
+	}
+
+#main_content {
+	width: auto;
+	height:auto;
+	margin : 0px 125px;
+	background:rgba(255,255,255,0.6);
+	}
+	
+#brand_logo{
+	width:200px;
+	height:50px;
+	align-content:center;
+	margin-top:0px;
+	}
+	
+.navbar-brand{
+	padding:0px;
+	}
+	
+p {
+	text-align:center;
+	font-style:italic;
+	font-weight:bolder;
+}
+
+#mySection {
+	padding-top:50px;
+	position:relative;
+	min-height:650px;
+	/*background:url(../img/logo%205.gif) repeat;
+	*/
+	}
+
+#myHeader{
+	position:relative;
+	}
+
+#myFooter{
+	/**/
+	/**/
+	min-height:130px;
+	text-align:center;
+	align-content:center;
+	align-items:center;
+	/*background:#433738;*/
+	background:url(../img/footer-bg.gif) left repeat-x;
+	color:#D9C7C7;
+	}
+
+#sidebar button {
+	padding:0px;
+	margin:0px;
+	}
+
+@media(max-width:800px){
+	
+	#brand_logo{
+	width:100px;
+	height:50px;
+	align-content:center;
+	margin-top:0px;
+	}
+	
+	#mySection{
+		
+	}
+	
+	#myTemForm{
+		width:50%;
+		margin:100px 0px auto;
+		color:red;
+		font-size:12px;	
+	}
+
+}
+
+@media(max-width:1200px){
+	#mySection{
+		
+	}
+	
+	#myTemForm{
+		width:50%;
+		margin:100px 12% auto;
+		color: green;
+	}
+}
+
+
+@media(max-width:1400px){
+	#mySection{
+		
+	}
+	
+	#myTemForm{
+		width:50%;
+		margin:100px 23% auto;
+	
+	}
+}
+
+
+
+
+
