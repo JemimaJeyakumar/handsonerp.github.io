@@ -11,3 +11,5 @@ For now use the header.php file
 Screenshot of the current template
 
 ![alt tag](https://github.com/CharlesRajendran/EADGroupProject/blob/master/img/Screenshot%20(78).png)
+
+jemima entered
